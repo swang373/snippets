@@ -1,3 +1,5 @@
+I found a notepad where I had collected what appeared to be a random assorted of Python "tricks". I didn't have a source documented, but I'm sure these things are floating around the internet. If I encountered your trick by browsing your blog post or Stack Overflow answer, thanks!
+
 #### Debugging
 
 ```python
